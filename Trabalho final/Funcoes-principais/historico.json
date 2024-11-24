@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    {
+      "name": "Tarefa 1",
+      "tag": "saude",
+      "completed": true,
+      "completionDate": "2024-11-24"
+    },
+    {
+      "name": "Tarefa 2",
+      "tag": "estudo",
+      "completed": false
+    }
+  ],
+  "activities": [
+    {
+      "name": "Atividade 1",
+      "tag": "lazer",
+      "completed": true,
+      "date": "2024-11-24"
+    },
+    {
+      "name": "Atividade 2",
+      "tag": "trabalho",
+      "completed": false
+    }
+  ],
+  "streak": 5,
+  "completedTasksHistory": [
+    {
+      "date": "2024-11-24",
+      "completedTasks": [
+        {
+          "name": "Tarefa 1",
+          "tag": "saude",
+          "completionDate": "2024-11-24"
+        }
+      ]
+    }
+  ]
+}
